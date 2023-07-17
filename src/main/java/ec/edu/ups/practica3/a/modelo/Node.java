@@ -32,4 +32,16 @@ public class Node {
         return right;
     }
 
+    public void setContacto(Contacto contacto) {
+        this.contacto = contacto;
+    }
+
+    public void setLeft(Node left) {
+        this.left = left;
+    }
+
+    public void setRight(Node right) {
+        this.right = right;
+    }
+
 }
