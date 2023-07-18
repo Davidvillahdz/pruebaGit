@@ -9,7 +9,7 @@ package ec.edu.ups.clases.radio;
  * @author HP
  */
 public class RadioB extends javax.swing.JFrame {
-
+  ///hola puto
     /**
      * Creates new form RadioB
      */
